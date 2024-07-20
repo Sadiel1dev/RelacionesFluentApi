@@ -1,0 +1,22 @@
+C:\Users\Alejandro D\Desktop\FullStackApi\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\Alejandro D\Desktop\FullStackApi\Core\bin\Debug\net8.0\Core.dll
+C:\Users\Alejandro D\Desktop\FullStackApi\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\Alejandro D\Desktop\FullStackApi\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro D\Desktop\FullStackApi\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\Alejandro D\Desktop\FullStackApi\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\Alejandro D\Desktop\FullStackApi\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro D\Desktop\FullStackApi\Core\obj\Debug\net8.0\Core.dll
+C:\Users\Alejandro D\Desktop\FullStackApi\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\Alejandro D\Desktop\FullStackApi\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\Alejandro D\Desktop\FullStackApi\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\nameless\Desktop\RelacionesEF\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\nameless\Desktop\RelacionesEF\Core\bin\Debug\net8.0\Core.dll
+C:\Users\nameless\Desktop\RelacionesEF\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\nameless\Desktop\RelacionesEF\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nameless\Desktop\RelacionesEF\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\nameless\Desktop\RelacionesEF\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\nameless\Desktop\RelacionesEF\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\nameless\Desktop\RelacionesEF\Core\obj\Debug\net8.0\Core.dll
+C:\Users\nameless\Desktop\RelacionesEF\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\nameless\Desktop\RelacionesEF\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\nameless\Desktop\RelacionesEF\Core\obj\Debug\net8.0\ref\Core.dll
